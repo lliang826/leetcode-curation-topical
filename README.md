@@ -1,4 +1,7 @@
 # leetcode-curation-topical
+
+https://neetcode.io/ for video solutions
+
 Curation of great Leetcode questions, categorized by topic/concept.
 My criteria for curation is that questions must be *valuable*, and not just difficult for the sake of being difficult.
 
@@ -40,7 +43,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ### Sliding Window/Two Pointer
 * [Container with most water](https://leetcode.com/problems/container-with-most-water/) (medium)
 * [Longest mountain in array](https://leetcode.com/problems/longest-mountain-in-array/) (medium)
-* [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium)
+* [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium) DONE
 * [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium)
 * [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
